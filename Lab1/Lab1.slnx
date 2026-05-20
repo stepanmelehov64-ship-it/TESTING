@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Lab1/Lab1.csproj" />
+  <Project Path="Lab1/Lab1.csproj" Id="3f0fd95f-c352-4957-a51e-c71ba040d480" />
+  <Project Path="ReservationApp.Tests/ReservationApp.Tests.csproj" />
 </Solution>
