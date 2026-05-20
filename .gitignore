@@ -428,3 +428,4 @@ FodyWeavers.xsd
 *.msm
 *.msp
 Lab1/.idea/
+.DS_Store
